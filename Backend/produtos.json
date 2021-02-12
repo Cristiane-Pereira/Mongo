@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "60266612b9f4ca2af0ae0595"
+  },
+  "produtos": "Headphone One Black",
+  "preço": 29,
+  "imagem": "Assets/feature1.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266705b9f4ca2af0ae0596"
+  },
+  "produtos": "Speaker Beats Pill",
+  "preço": 199,
+  "imagem": "Assets/feature2.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266768b9f4ca2af0ae0597"
+  },
+  "produtos": "Aple air Pods",
+  "preço": 112,
+  "imagem": "Assets/feature3.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6026679fb9f4ca2af0ae0598"
+  },
+  "produtos": "Smartwatch f9 Negro",
+  "preço": 756,
+  "imagem": "Assets/feature4.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602667eeb9f4ca2af0ae0599"
+  },
+  "produtos": "Vestido Crep",
+  "preço": 86.9,
+  "imagem": "Assets/produto-2b-570x708.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266857b9f4ca2af0ae059a"
+  },
+  "produtos": "Vestido Manga Longa",
+  "preço": 75.9,
+  "imagem": "Assets/produto-1a-570x708.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266886b9f4ca2af0ae059b"
+  },
+  "produtos": "Vestido Social c/cinto",
+  "preço": 99.9,
+  "imagem": "Assets/shutterstock_116081557_2-570x708.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602668d2b9f4ca2af0ae059c"
+  },
+  "produtos": "Vestido Básico",
+  "preço": 56,
+  "imagem": "Assets/shutterstock_94577944_2-570x708.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266903b9f4ca2af0ae059d"
+  },
+  "produtos": "Vestido Rap",
+  "preço": 64,
+  "imagem": "Assets//shutterstock_342042911_2-570x708.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6026693cb9f4ca2af0ae059e"
+  },
+  "produtos": "Bolsa de Couro Original",
+  "preço": 156,
+  "imagem": "Assets/produto-4a-570x708.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6026696cb9f4ca2af0ae059f"
+  },
+  "produtos": "Vestido rosa com Coração",
+  "preço": 126,
+  "imagem": "Assets/vestido-cor-de-rosa-com-coraç?es.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602669a3b9f4ca2af0ae05a0"
+  },
+  "produtos": "Vestido Moda Inverno",
+  "preço": 112,
+  "imagem": "Assets/shutterstock_327014729_2-570x708.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602669e1b9f4ca2af0ae05a1"
+  },
+  "produtos": "Saia Blogueira ",
+  "preço": 86,
+  "imagem": "Assets/20.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266a11b9f4ca2af0ae05a2"
+  },
+  "produtos": "Vestido Fashion",
+  "preço": 88,
+  "imagem": "Assets/girls_PNG6477.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266a3bb9f4ca2af0ae05a3"
+  },
+  "produtos": "Vestido Curto Azul",
+  "preço": 56,
+  "imagem": "Assets/girls_PNG6476.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60266a74b9f4ca2af0ae05a4"
+  },
+  "produtos": "Saia Curta Preta ",
+  "preço": 46,
+  "imagem": "Assets/girls_PNG6485.png",
+  "__v": 0
+}]
